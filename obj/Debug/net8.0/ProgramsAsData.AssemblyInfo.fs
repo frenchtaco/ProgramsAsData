@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("ProgramsAsData")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+467d683b600b48070cffd67610591c9657bf1ac3")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("ProgramsAsData")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("ProgramsAsData")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
