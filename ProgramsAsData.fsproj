@@ -10,4 +10,7 @@
     <Compile Include="ProgramsAsDataCodeE2024-main\Lectures\Lec01\Intro\Intro1.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="ProgramsAsDataCSharp.csproj" />
+  </ItemGroup>
 </Project>
