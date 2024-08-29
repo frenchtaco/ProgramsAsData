@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzrSBSDWVmhCes2PKkPMcIksG3od2m4uLDf95ZzqVdMUiWe52B7JzjBmd4l3YFLYgU2zSenYSl582RB+ZwMNLA==",
+  "dgSpecHash": "Vao7bYzt//gCVA3C7yNgPTbPSKyVz31FSCGQsD3JgTdKII0g3cSOW1Gaq+KGP0JKCfv+GwUwW/2YNIqqazrtKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\OneDrive\\Documents\\.ITU\\5.Semester\\Programs as Data\\ProgramsAsData\\ProgramsAsData.fsproj",
+  "projectFilePath": "c:\\Users\\Bruger\\OneDrive\\Documents\\.ITU\\5.Semester\\Programs as Data\\ProgramsAsData\\ProgramsAsData.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\fsharp.core\\8.0.100-beta.23475.2\\fsharp.core.8.0.100-beta.23475.2.nupkg.sha512"
   ],

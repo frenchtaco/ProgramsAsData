@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ProgramsAsDataCodeE2024-main\Lectures\Lec01\Intro\Intro2.fs" />
     <Compile Include="ProgramsAsDataCodeE2024-main\Lectures\Lec01\Intro\Intro1.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
