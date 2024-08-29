@@ -6,6 +6,8 @@
   <ItemGroup>
     <Compile Include="ProgramsAsDataCodeE2024-main\Lectures\Lec01\Intro\Intro2.fs" />
     <Compile Include="ProgramsAsDataCodeE2024-main\Lectures\Lec01\Intro\Intro1.fs" />
+    <Folder Include="ProgramsAsDataCodeE2024-main\Lectures\Lec01\IntroCSharp\" />
     <Compile Include="Program.fs" />
+    <Content Include=".gitignore" />
   </ItemGroup>
 </Project>
